@@ -1,13 +1,54 @@
 
 .heris_size{
-    height: 100vh;
+    height: 90vh;
 }
 
 .bag-transparent{
-    background-color: transparent;
+    /* background-color: transparent; */
     border: none;
+    height: 50px;
+    top: 40%;
+    width: 50px;
+    background-color: black;
+}
+
+.indicators-round{
+    height: 35px;
+    width: 35px;
+    border: 5px solid rgb(34, 66, 12);
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 10px;
 }
 
 .heros_images{
-    height: 80vh;
+    height: 85vh;
+    filter: blur(4px);
 }
+
+.heris_size{
+    height: 90vh;
+    position: relative;
+}
+
+.heros-text{
+    top: 15%;
+    width: 60%;
+    margin: 0 20%;
+    padding: .5rem;
+    color: white;
+    text-align: center;
+    position: absolute;
+    border-radius: 25px;
+    box-shadow: .5px .5px .5px 1.6px #888888;
+    /* border: 2px solid black; */
+    background-color: rgb(59, 58, 58,0.5);
+}
+
+.heros-btn{
+    padding: .8rem 3.5rem;
+    border-radius: 50px;
+    font-size: 28px;
+    font-weight: 700;
+}
+
