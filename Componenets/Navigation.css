@@ -1,0 +1,17 @@
+.logo{
+    width: 100px;
+}
+
+.logo img{
+    width: 100px;
+}
+
+.bag_dark{
+    background-color: rgb(104, 103, 103);
+    color: white;
+}
+
+.pading_nav{
+    padding: 0 3rem;
+    top: 5px;
+}
