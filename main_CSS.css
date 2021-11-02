@@ -1,0 +1,44 @@
+html, 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1.2rem;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hedding1,
+.hedding2,
+.hedding3{
+    
+}
+
+.hedding1{
+    font-size: 3.2rem;
+    color: rgb(31, 30, 30);
+    width: 700;
+}
+
+.hedding2{
+    font-size: 2.7rem;
+    color: rgb(31, 30, 30);
+    width: 500;
+}
+
+.hedding2{
+    font-size: 2.2rem;
+    color: rgb(31, 30, 30);
+    width: 400;
+}
+
+.learn_more_button{
+    color: rgb(136, 94, 5);
+}
+
+button{
+    color: white;
+    background-color: #EC0E36;
+}
