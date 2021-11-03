@@ -1,0 +1,39 @@
+.client_section{
+    width: 100%;
+    margin: 6rem 0;
+    height: 350px;
+    /* border: 2px solid black; */
+}
+
+.client_h1{
+    text-align: center;
+    font-size: 62px;
+    font-weight: 700;
+}
+
+.multipal_picture{
+    /* margin: 0 5rem; */
+    margin: 2.6rem 1.5rem; 
+}
+
+.multipal_picture img{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+
+.indicators-round{
+    height: 25px;
+    width: 25px;
+    border: 5px solid rgb(34, 66, 12);
+    border-radius: 50%;
+    background-color: black;
+    margin-right: 10px;
+} 
+
+.bt-mult-pic{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(236, 15, 15);;
+}
