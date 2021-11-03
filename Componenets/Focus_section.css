@@ -1,0 +1,79 @@
+.focus_section{
+    width: 100%;
+}
+
+.focus_1st{
+    width: 60%;
+    padding: 40px;
+    margin: auto;
+    border: 2.5px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    background-color: rgb(235, 235, 235);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) 
+        drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) 
+        drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+}
+
+.focus-imgmages{
+    position: relative;
+    height: 540px;
+    /* border: 1px solid black; */
+}
+
+.focus-imgmages img{
+    position: absolute;
+}
+
+/* .focus-img_1{
+    position: absolute;
+    width: 45%;
+    height: 92px;
+    left: 0;
+    top: 2%;
+    background: url(.jpg);
+    
+} 
+
+.focus-img_2{
+    width: 225px;
+    height: 130px;
+    top: 2rem;
+    left: 225px;
+    
+}
+
+.focus-img_3{
+    width: 210px;
+    height: 130px;
+    top: 2rem;
+    right: 0;
+}  */
+
+.focus-img_5{
+    width: 50%;
+    height: 35%;
+    right: 50%;
+    bottom: 0;
+} 
+
+.focus-img_6{
+    width: 50%;
+    height: 35%;
+    right: 0;
+    bottom: 0;
+} 
+
+.focus-imgmages{
+    position: relative;
+} 
+
+.focus_video{
+    position: absolute;
+    width: 100%;
+    height: 60%;
+    width: 80%;
+    top: 8%;
+    left: 8%;
+}
+
