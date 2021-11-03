@@ -1,11 +1,11 @@
 .focus_section{
     width: 100%;
-    margin-top: 9.5rem;
+    margin-top: 12rem;
     margin-bottom: 3rem;
 }
 
 .focus_1st{
-    width: 60%;
+    /* width: 60%; */
     padding: 40px;
     margin: auto;
 }
@@ -13,23 +13,33 @@
 .focus-imgmages{
     position: relative;
     height: 540px;
+    /* padding-right: 3rem; */
 }
 
 .focus-imgmages img{
     position: absolute;
+    width: 47.3%;
+    height: 46.2%;
+}
+
+.focus-img_2{
+    top: 2rem;
+    left: 0;
+    
+}
+
+.focus-img_3{
+    top: 2rem;
+    right: 2rem;
 }
 
 .focus-img_5{
-    width: 50%;
-    height: 35%;
-    right: 50%;
+    left: 0;
     bottom: 0;
 } 
 
 .focus-img_6{
-    width: 50%;
-    height: 35%;
-    right: 0;
+    right: 2rem;
     bottom: 0;
 } 
 
@@ -39,8 +49,8 @@
 
 .focus_video{
     position: absolute;
-    width: 100%;
-    height: 60%;
+    width: 90%;
+    height: 55%;
     width: 80%;
     top: 8%;
     left: 8%;
@@ -57,18 +67,5 @@
     
 } 
 
-.focus-img_2{
-    width: 225px;
-    height: 130px;
-    top: 2rem;
-    left: 225px;
-    
-}
-
-.focus-img_3{
-    width: 210px;
-    height: 130px;
-    top: 2rem;
-    right: 0;
-}  */
+  */
 
