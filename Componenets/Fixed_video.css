@@ -11,8 +11,11 @@
     position: fixed;
     top: 20%;
     right: 5%;
-    height: 100px;
-    width: 60px;
+    height: 90px;
+    width: 80px;
+    animation-name: downolode;
+    animation-duration: .5s;
+    animation-iteration-count: infinite;
     background-color: rgba(219, 3, 3, 0.911);
     clip-path: polygon(0 58%, 31% 56%, 31% 0, 69% 0, 69% 56%, 100% 56%, 50% 100%);
 }
