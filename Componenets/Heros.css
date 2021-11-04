@@ -51,6 +51,9 @@
     margin: auto;
 }
 
+.heros-text h1{
+    margin-bottom: .5rem;
+}
 
 .heros-btn{
     padding: .8rem 3.5rem;
