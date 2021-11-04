@@ -1,0 +1,8 @@
+.fixed-video{
+    position: fixed;
+    left: 2.7%;
+    bottom: 9%;
+    height: 25%;
+    width: 22%;
+    background-color: black;
+}
