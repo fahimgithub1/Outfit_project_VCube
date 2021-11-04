@@ -1,0 +1,14 @@
+@keyframes downolode{
+    0%{
+        top: 19.2%;
+        background-color: rgba(28, 83, 21, 0.911);
+    }
+    50%{
+        top: 22.5%;
+        background-color: rgba(14, 71, 175, 0.911);
+    }
+    100%{
+        top: 20%;
+        background-color: rgba(180, 34, 15, 0.911);
+    }
+}
