@@ -14,7 +14,7 @@
     background-color: #fff;
     padding: 1.1rem;
     border-radius: 25px;
-    height: 490px;
+    height: 510px;
     transition: all .3s;
 }
 
@@ -44,6 +44,6 @@
 }
 
 .service-conternar:hover{
-    height: 500px;
+    height: 530px;
     border: 4px solid black;
 }
