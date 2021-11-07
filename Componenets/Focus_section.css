@@ -13,8 +13,9 @@
 .focus-imgmages{
     position: relative;
     height: 400px;
-    /* padding-right: 3rem; */
+    margin-bottom: 2rem;
 }
+
 
 .focus-imgmages img{
     position: absolute;
