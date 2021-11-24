@@ -1,0 +1,7 @@
+.bg-img{
+    background-image: url("../images/swing.webp"),
+      linear-gradient(#eb01a5, #d13531);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
